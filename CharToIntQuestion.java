@@ -30,6 +30,7 @@ public class CharToIntQuestion {
             System.out.println(charToInt("rsT"));
             System.out.println(charToInt("uvW"));
             System.out.println(charToInt("XYZ"));
+        }
         catch (NumberFormatException e) {
             System.out.println("Max int size most likely reached");
             e.printStackTrace();

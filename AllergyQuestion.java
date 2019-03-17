@@ -58,7 +58,7 @@ public class AllergyQuestion {
     }
     
     public static void main(String[] args) {
-        Allergy peanutAllergy = new Allergy("Boss Man", "Sore throat, difflculting breathing", Severity.LOW, new Timestamp(System.currentTimeMillis()));
+        Allergy peanutAllergy = new Allergy("Boss Man", "Sore throat, difficulting breathing", Severity.LOW, new Timestamp(System.currentTimeMillis()));
         
         System.out.println(peanutAllergy.getReporter());
         System.out.println(peanutAllergy.getSymptoms());
