@@ -1,11 +1,7 @@
 # CernerInterviewQuestions
+Common interview question from Cerner
 
 ## Questions
-Cerner Questions
-Noah Zeilmann
-
-
-
 * Tell me about the reason you left the previous company?  
 * Tell me the previous project you have done or tools you used like StackOverflow?  
 * Design a class (give different methods and variables that will be used) that will provide information related to an allergy which includes symptoms, who reported the allergy, severity, date reported etc.
