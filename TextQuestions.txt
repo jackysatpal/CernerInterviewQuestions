@@ -1,0 +1,8 @@
+Tell me the previous project you have done?  
+    "A previous project I have worked that I felt proud of was a deployment dashboard for communicating with a Jenkin's Pipeline, 
+    using Jenkin's API to deploy web application to our dev, test, and production servers. This application also added a 
+    approval process to deploy these application. In which a developer would select an server to deploy to, then a Jenkin's job or 
+    an artifact from our Artifact repo, and click deploy. In order for the deployment to start, the project managers or the approved developers, 
+    depending on the layer the artifact is being deployed to, would have to approve the deployment via the approval page on the deployment 
+    dashboard or if they have signed up for text alert, they would receive a text message, via a service called Twilio, in which they could
+    respond with a private pin that user has set to approve the deployment."
