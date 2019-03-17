@@ -6,3 +6,24 @@ Tell me the previous project you have done?
     depending on the layer the artifact is being deployed to, would have to approve the deployment via the approval page on the deployment 
     dashboard or if they have signed up for text alert, they would receive a text message, via a service called Twilio, in which they could
     respond with a private pin that user has set to approve the deployment."
+
+Describe 3 primitive data types
+    int - a primitive data type used for 32 bit signed integer values. 
+    boolean - a primitive data type with only two possible values, true and false. With the default value being false. The default
+        value can be seen by declaring the variable as a member of the class then referencing it. Best used as a flag for the result
+        of two outcomes.
+    double - a 64bit double precision floating point number, with a default value of 0.0d. It is best used when handling a decimal
+        number and should not be used for precise values, such as currency. It has 15-16 digits of percision. While a float has 6-7.
+
+Difference between a class and object
+    A class can be consider the blueprint or template from which objects are created. An object is a initalized version of the class,
+    which can be untilzied by calling its public member functions. A class will only be declared once, while an object can be created
+    several times.
+
+Recently learned programming technology and how did you learn it 
+    A recent programming technology I learned was a npm package called Puppeteer, which is similar to selenium, and lets the 
+    developer access Chrome or Chromium's API. I used this to create a program that logs into my school's Blackboard page
+    to scrape my grades and give me return a JSON file of my grades and all recent assignments' information located on Blackboard. 
+    I learned this technology by reading the documentation provided on the NPM page and trying out small bits of it's functionality
+    until I understood it. Once I understood how to utilize Puppeteer how I wanted, I combined the small bits I made eailer 
+    to create a fully functioning grade scraper.
