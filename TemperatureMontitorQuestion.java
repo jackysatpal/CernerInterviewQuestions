@@ -1,4 +1,4 @@
-class TemperatureMontiorQuestion {
+public class TemperatureMontiorQuestion {
 
     enum BodyLocation {
         MOUTH, ARMPIT, RECTUM, EAR

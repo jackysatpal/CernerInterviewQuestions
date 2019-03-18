@@ -6,7 +6,7 @@ import java.lang.Integer;
     are the palindrome numbers. It can also be a string like LOL, MADAM etc.
 */
 
-class PalindromeQuestion {
+public class PalindromeQuestion {
     public static boolean isPalindrome(int num) {
         String numString  = (new Integer(num)).toString();
         

@@ -5,7 +5,7 @@
 import java.util.Arrays;
 import java.util.List;
 
-class NextToLastWordQuestion {
+public class NextToLastWordQuestion {
     public static String nextToLastWord(String sentence) {
         List<String> words = Arrays.asList(sentence.split("\\s"));
 
