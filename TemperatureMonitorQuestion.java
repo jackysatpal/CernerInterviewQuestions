@@ -1,4 +1,8 @@
-public class TemperatureMontiorQuestion {
+/*
+
+*/
+
+public class TemperatureMonitorQuestion {
 
     enum BodyLocation {
         MOUTH, ARMPIT, RECTUM, EAR
@@ -62,7 +66,7 @@ public class TemperatureMontiorQuestion {
             healthyPatient.getTemperature(), healthyPatient.getLocation(), healthyPatient.getPhysicalActivity(),
             healthyPatient.hasFever() ? "does" : "does not");
         System.out.printf("For the sick patient, their temperature is %.1ff, the location of where the temperature was"
-            + " taken was the patient's %s, while their recent physical activaty was %s. This patient %s have a fever",
+            + " taken was the patient's %s, while their recent physical activaty was %s. This patient %s have a fever.",
             sickPatient.getTemperature(), sickPatient.getLocation(), sickPatient.getPhysicalActivity(),
             sickPatient.hasFever() ? "does" : "does not");
     }
