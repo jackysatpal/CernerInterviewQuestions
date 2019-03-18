@@ -2,7 +2,7 @@
     Convert binary to decimal Convert hexadecimal to binary
 */
 
-public class DecimalConvert {
+public class DecimalConvertQuestion {
 
     public static int toDecimal(int binary) {
         int decimal = 0;

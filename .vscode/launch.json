@@ -1,0 +1,40 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DecimalConvertQuestion",
+            "request": "launch",
+            "mainClass": "DecimalConvertQuestion"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TemperatureMontiorQuestion",
+            "request": "launch",
+            "mainClass": "TemperatureMontiorQuestion"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PalindromeNumber",
+            "request": "launch",
+            "mainClass": "PalindromeNumber"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NextToLastWord",
+            "request": "launch",
+            "mainClass": "NextToLastWord"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FourNumsSumEqual",
+            "request": "launch",
+            "mainClass": "FourNumsSumEqual"
+        }
+    ]
+}
